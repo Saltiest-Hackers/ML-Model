@@ -6,6 +6,9 @@
 .vscode
 .vscode/
 
+# Data Files
+BigQuery-public/
+
 
 ########################
 ### --- Template --- ###
