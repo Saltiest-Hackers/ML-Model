@@ -10,8 +10,10 @@ dependencies:
   - astor=0.8.0=py37_0
   - attrs=19.3.0=py_0
   - backcall=0.1.0=py37_0
+  - beautifulsoup4=4.8.2=py37_0
   - blas=1.0=mkl
   - blinker=1.4=py37_0
+  - bs4=4.8.2=0
   - c-ares=1.15.0=h7b6447c_1001
   - ca-certificates=2020.1.1=0
   - cachetools=3.1.1=py_0
@@ -99,6 +101,7 @@ dependencies:
   - scipy=1.4.1=py37h921218d_0
   - setuptools=45.2.0=py37_0
   - six=1.14.0=py37_0
+  - soupsieve=1.9.5=py37_0
   - spacy=2.2.3=py37hc9558a2_0
   - sqlite=3.31.1=h7b6447c_0
   - srsly=1.0.0=py37he1b5a44_0
@@ -128,6 +131,7 @@ dependencies:
     - cython==0.29.15
     - joblib==0.14.1
     - scikit-learn==0.22.2.post1
+    - tokenizers==0.6.0
     - vadersentiment==3.2.1
     - word2vec==0.10.2
 prefix: /home/btr-dev/res/miniconda3/envs/salty-model
