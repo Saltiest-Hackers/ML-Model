@@ -25,25 +25,26 @@ sentiment scores.
 
 ### Positive Comments
 
-[pos](assets/pos-not-in-neg.png)
+![pos](assets/pos-not-in-neg.png)
 
 
 ### Negative Comments
 
-[neg](assets/bad-not-in-good.png)
+![neg](assets/bad-not-in-good.png)
 
 ## Architecture
 ---------------
 ### Current
 
 Currently a simple architecture serves the API with plans to upgrade
-[current](assets/CurrentArch.png)
+
+![current](assets/CurrentArch.png)
 
 
 
 ### Planned
 
-[planned](assets/plannedarchitecture.png)
+![planned](assets/plannedarchitecture.png)
 
 
 ## Database
@@ -51,7 +52,7 @@ Currently a simple architecture serves the API with plans to upgrade
 
 We have provided a databse schema for the current database
 
-[dbdiagram](assets/tabediagram.png)
+![dbdiagram](assets/tabediagram.png)
 
 
 ## Roadmap
