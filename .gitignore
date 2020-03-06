@@ -9,6 +9,7 @@
 # Data Files
 BigQuery-public/
 Saltiest-Hackers-ML-Model/data/raw/gcp-bq-full/
+Saltiest-Hackers-ML-Model/data/processed/vader-crossvalidation.csv
 
 
 ########################
